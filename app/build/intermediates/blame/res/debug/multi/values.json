@@ -1,0 +1,547 @@
+[
+    {
+        "outputFile": "D:\\sample\\saildApp\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 19,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 168,
+                    "endLine": 9,
+                    "endColumn": 19,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 282,
+                    "endLine": 17,
+                    "endColumn": 19,
+                    "endOffset": 482
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 487,
+                    "endLine": 25,
+                    "endColumn": 19,
+                    "endOffset": 680
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 685,
+                    "endLine": 45,
+                    "endColumn": 19,
+                    "endOffset": 1338
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1343,
+                    "endLine": 65,
+                    "endColumn": 19,
+                    "endOffset": 1917
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 1922,
+                    "endColumn": 41,
+                    "endOffset": 1959
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 1964,
+                    "endColumn": 47,
+                    "endOffset": 2007
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 2012,
+                    "endColumn": 36,
+                    "endOffset": 2044
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 2049,
+                    "endColumn": 39,
+                    "endOffset": 2084
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 2089,
+                    "endColumn": 40,
+                    "endOffset": 2125
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 2130,
+                    "endColumn": 38,
+                    "endOffset": 2164
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 2169,
+                    "endColumn": 38,
+                    "endOffset": 2203
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 2208,
+                    "endColumn": 43,
+                    "endOffset": 2247
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 2252,
+                    "endColumn": 45,
+                    "endOffset": 2293
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 2298,
+                    "endColumn": 39,
+                    "endOffset": 2333
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 2486,
+                    "endColumn": 57,
+                    "endOffset": 2539
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 2544,
+                    "endColumn": 55,
+                    "endOffset": 2595
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 2600,
+                    "endColumn": 47,
+                    "endOffset": 2643
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 2648,
+                    "endColumn": 45,
+                    "endOffset": 2689
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 2694,
+                    "endColumn": 60,
+                    "endOffset": 2750
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 2755,
+                    "endColumn": 43,
+                    "endOffset": 2794
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 2799,
+                    "endColumn": 57,
+                    "endOffset": 2852
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 2857,
+                    "endColumn": 43,
+                    "endOffset": 2896
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 2901,
+                    "endColumn": 42,
+                    "endOffset": 2939
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 2944,
+                    "endColumn": 39,
+                    "endOffset": 2979
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 2984,
+                    "endColumn": 40,
+                    "endOffset": 3020
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 3025,
+                    "endColumn": 42,
+                    "endOffset": 3063
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 3068,
+                    "endColumn": 38,
+                    "endOffset": 3102
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 3107,
+                    "endColumn": 39,
+                    "endOffset": 3142
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 3147,
+                    "endColumn": 50,
+                    "endOffset": 3193
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 572,
+                        "endColumn": 50,
+                        "endOffset": 618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 3198,
+                    "endColumn": 37,
+                    "endOffset": 3231
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 37,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 3236,
+                    "endColumn": 82,
+                    "endOffset": 3314
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 3319,
+                    "endColumn": 61,
+                    "endOffset": 3376
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 3381,
+                    "endColumn": 62,
+                    "endOffset": 3439
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 3444,
+                    "endColumn": 65,
+                    "endOffset": 3505
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 3510,
+                    "endColumn": 61,
+                    "endOffset": 3567
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 3572,
+                    "endColumn": 62,
+                    "endOffset": 3630
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 3635,
+                    "endColumn": 62,
+                    "endOffset": 3693
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 3698,
+                    "endLine": 101,
+                    "endColumn": 12,
+                    "endOffset": 3767
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 3772,
+                    "endLine": 106,
+                    "endColumn": 12,
+                    "endOffset": 4041
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 4046,
+                    "endLine": 112,
+                    "endColumn": 12,
+                    "endOffset": 4470
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 4475,
+                    "endLine": 120,
+                    "endColumn": 12,
+                    "endOffset": 4928
+                },
+                "from": {
+                    "file": "D:\\sample\\saildApp\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

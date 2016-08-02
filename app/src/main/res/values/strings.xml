@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 讯飞appid -->
+    <string name="app_id">578dcf67</string>
+    <string name="app_name">语音绕口令</string>
+    <string name="title">绕口令</string>
+    <string name="btn_back">返 回</string>
+    <string name="btn_ok">确 定</string>
+    <string name="btn_cancel">取 消</string>
+    <string name="btn_add">添 加</string>
+    <string name="btn_set">设 置</string>
+    <string name="action_settings">设 置</string>
+    <string name="add_title_hiden">请输入标题(1-10个字)</string>
+    <string name="add_content_hiden">请输入内容(1-500个字)</string>
+    <string name="delete_title">确定删除该条绕口令</string>
+    <string name="add_title">绕口令标题</string>
+    <string name="add_content">绕口令内容</string>
+    
+    
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+
+    <!-- 合成 -->
+    <string-array name="engine_entries">
+        <item>本地合成</item>
+        <item>在线合成</item>
+    </string-array>
+    <string-array name="engine_values">
+        <item>local</item>
+        <item>cloud</item>
+    </string-array>
+    <string-array name="voicer_cloud_entries">
+        <item>小燕—女青、中英、普通话</item>
+        <item>小宇—男青、中英、普通话</item>
+        <item>凯瑟琳—女青、英</item>
+        <item>亨利—男青、英</item>
+        <item>玛丽—女青、英</item>
+        <item>小研—女青、中英、普通话</item>
+        <item>小琪—女青、中英、普通话</item>
+        <item>小峰—男青、中英、普通话</item>
+        <item>小梅—女青、中英、粤语</item>
+        <item>小莉—女青、中英、台湾普通话</item>
+        <item>小蓉—女青、中、四川话</item>
+        <item>小芸—女青、中、东北话</item>
+        <item>小坤—男青、中、河南话</item>
+        <item>小强—男青、中、湖南话</item>
+        <item>小莹—女青、中、陕西话</item>
+        <item>小新—男童、中、普通话</item>
+        <item>楠楠—女童、中、普通话</item>
+        <item>老孙—男老、中、普通话</item>
+    </string-array>
+    <string-array name="voicer_cloud_values">
+        <item>xiaoyan</item>
+        <item>xiaoyu</item>
+        <item>catherine</item>
+        <item>henry</item>
+        <item>vimary</item>
+        <item>vixy</item>
+        <item>xiaoqi</item>
+        <item>vixf</item>
+        <item>xiaomei</item>
+        <item>xiaolin</item>
+        <item>xiaorong</item>
+        <item>xiaoqian</item>
+        <item>xiaokun</item>
+        <item>xiaoqiang</item>
+        <item>vixying</item>
+        <item>xiaoxin</item>
+        <item>nannan</item>
+        <item>vils</item>
+    </string-array>
+    <string-array name="stream_entries">
+        <item>通话</item>
+        <item>系统</item>
+        <item>铃声</item>
+        <item>音乐</item>
+        <item>闹铃</item>
+        <item>通知</item>
+    </string-array>
+    <string-array name="stream_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string name="tts_toast_format" formatted="false">缓冲进度为%d%%，播放进度为%d%%</string>
+
+</resources>

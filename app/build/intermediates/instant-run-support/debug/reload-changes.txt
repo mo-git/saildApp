@@ -1,0 +1,2 @@
+CHANGED,D:\sample\saildApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\mo\saildapp\MainActivity$override.class
+CHANGED,D:\sample\saildApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

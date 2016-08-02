@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="XListView">
+        <attr name="enableRefresh" format="boolean"/>
+        <attr name="enableLoad" format="boolean"/>
+    </declare-styleable>
+
+</resources>
