@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\android_app\\saildApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\android_app\\saildApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\sample\\saildApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
         "source": "D:\\sample\\saildApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     }

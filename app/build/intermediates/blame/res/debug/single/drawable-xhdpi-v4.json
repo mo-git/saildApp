@@ -1,5 +1,13 @@
 [
     {
+        "merged": "D:\\android_app\\saildApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\android_app\\saildApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android_app\\saildApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xing.png",
+        "source": "D:\\android_app\\saildApp\\app\\src\\main\\res\\drawable-xhdpi\\xing.png"
+    },
+    {
         "merged": "D:\\sample\\saildApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xlistview_arrow.png",
         "source": "D:\\sample\\saildApp\\app\\src\\main\\res\\drawable-xhdpi\\xlistview_arrow.png"
     },
@@ -12,7 +20,15 @@
         "source": "D:\\sample\\saildApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
+        "merged": "D:\\android_app\\saildApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_back_title.png",
+        "source": "D:\\android_app\\saildApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_back_title.png"
+    },
+    {
         "merged": "D:\\sample\\saildApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xing.png",
         "source": "D:\\sample\\saildApp\\app\\src\\main\\res\\drawable-xhdpi\\xing.png"
+    },
+    {
+        "merged": "D:\\android_app\\saildApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xlistview_arrow.png",
+        "source": "D:\\android_app\\saildApp\\app\\src\\main\\res\\drawable-xhdpi\\xlistview_arrow.png"
     }
 ]

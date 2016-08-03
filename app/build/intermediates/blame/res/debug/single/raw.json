@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\android_app\\saildApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\raokouling",
+        "source": "D:\\android_app\\saildApp\\app\\src\\main\\res\\raw\\raokouling"
+    },
+    {
         "merged": "D:\\sample\\saildApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\raokouling",
         "source": "D:\\sample\\saildApp\\app\\src\\main\\res\\raw\\raokouling"
     }
