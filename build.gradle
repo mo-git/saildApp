@@ -2,14 +2,22 @@
 buildscript {
     repositories {
         jcenter()
+        google()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:2.1.2'
+        classpath 'com.android.tools.build:gradle:4.1.1'
     }
 }
 
 allprojects {
     repositories {
+
+        maven { url 'https://maven.aliyun.com/nexus/content/groups/public/' }
+        maven { url "http://maven.aliyun.com/nexus/content/repositories/jcenter" }
         jcenter()
+        google()
+        maven { url "https://maven.google.com" }
+        maven { url "https://jitpack.io" }
+
     }
 }

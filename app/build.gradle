@@ -1,13 +1,15 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 18
-    buildToolsVersion "23.0.3"
+    compileSdkVersion 27
+    buildToolsVersion "27.0.0"
+
 
     defaultConfig {
         applicationId "com.mo.saildapp"
-        minSdkVersion 10
-        targetSdkVersion 18
+        minSdkVersion 14
+        targetSdkVersion 27
+        multiDexEnabled true
     }
 
     buildTypes {
@@ -19,9 +21,9 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:18.0.0'
     compile files('libs/domob_android_sdk.jar')
     compile files('libs/Msc.jar')
     compile files('libs/Sunflower.jar')
     compile files('libs/umeng-analytics-v6.0.1.jar')
+    compile 'com.android.support:multidex:1.0.2'
 }
