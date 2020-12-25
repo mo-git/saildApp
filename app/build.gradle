@@ -1,5 +1,6 @@
 apply plugin: 'com.android.application'
 
+
 android {
     compileSdkVersion 27
     buildToolsVersion "27.0.0"
@@ -12,12 +13,51 @@ android {
         multiDexEnabled true
     }
 
+    signingConfigs {
+        try {
+            release {
+                storeFile file('saild_key.jks')
+                storePassword "1234qwer"
+                keyAlias "saild_key"
+                keyPassword "1234qwer"
+            }
+        } catch (ex) {
+            throw new InvalidUserDataException(ex.toString())
+        }
+
+    }
+
     buildTypes {
         release {
             minifyEnabled false
+            signingConfig signingConfigs.release
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
+        debug {
+            debuggable true
+            minifyEnabled false
+            signingConfig signingConfigs.release
+            // signingConfig signingConfigs.debug
+        }
     }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+    repositories {
+        flatDir {
+            dirs 'libs'
+        }
+    }
+
 }
 
 dependencies {
@@ -26,4 +66,15 @@ dependencies {
     compile files('libs/Sunflower.jar')
     compile files('libs/umeng-analytics-v6.0.1.jar')
     compile 'com.android.support:multidex:1.0.2'
+    compile 'com.android.support:appcompat-v7:27.1.1'
+
+    //1. 指定tinker依赖版本（注：应用升级1.3.5版本起，不再内置tinker）
+    //2.为了便于解答问题，这里的tinker版本建议跟随此处demo设置，如果微信更新了tinker版本，bugly会定期同步更新
+
+    implementation 'com.tencent.bugly:crashreport_upgrade:latest.release'
+    implementation 'com.tencent.tinker:tinker-android-lib:1.9.14.10'
+//    implementation 'com.tencent.bugly:nativecrashreport:latest.release'
 }
+
+apply from: 'tinker-support.gradle'
+

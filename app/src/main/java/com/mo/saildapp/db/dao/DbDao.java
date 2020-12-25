@@ -58,14 +58,12 @@ public class DbDao {
 		return flag;
 		
 	}
-	// id Ä¬ÈÏInteger.MAX_VALUE
 	public List<Raokouling> getData(int index){
 		List<Raokouling> datas = new ArrayList<Raokouling>();
 		try {
 			String sql = "select * from raokouling where id < " + index + " order by id desc limit 20 offset 0";
 			Cursor cursor = db.rawQuery(sql, null);
-//			Cursor cursor = db.query(Syscontents.TABLE_NAME,new String[]{"id","title","content"}, "id<?", new String[]{String.valueOf(14)}, null, null, "id desc", "20,0");
-			 while(cursor.moveToNext()){  
+			 while(cursor.moveToNext()){
 				 Raokouling data = new Raokouling();
 		            int id = cursor.getInt(cursor.getColumnIndex("id"));  
 		            String title = cursor.getString(cursor.getColumnIndex("title"));  

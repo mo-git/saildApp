@@ -114,6 +114,7 @@ public class MainActivity extends BaseActivity implements IXListViewListener, On
     	super.onClick(v);
     	switch (v.getId()) {
 		case R.id.title_right:
+			Toast.makeText(this,"修复后的弹框222",Toast.LENGTH_SHORT).show();
 			startActivityForResult(new Intent(this,AddDataActivity.class), 0);
 			break;
 		}
